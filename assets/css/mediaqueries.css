@@ -142,12 +142,13 @@
 		left: initial;
 	}
 
-	li {
+	nav ul li {
 		float: left;
 		padding-right: initial;
 		padding-left: initial;
-		width: 33%;
+		width: calc(33.3% - 3px);
 		text-align: center;
+		margin-top: 23px;
 	}
 
 	#aboutmepic {
@@ -156,15 +157,15 @@
 	}
 
 	h4 {
-		width: calc(100%);
+		width: calc(100% - 50px);
 	}
 
 	.portfoliopic {
-		width: calc(100%);
+		width: calc(100% - 50px);
 	}
 
 	.grid {
-		width: calc(50% - 50px);
+		width: 100%;
 	}
 
 	input {
