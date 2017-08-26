@@ -63,11 +63,11 @@
 		margin-left: 30px;
 	}
 	nav {
-		left: 580px;
+		left: 465px;
 	} 
 
 	h1 {
-		margin-left: 128px;
+		margin-left: 25px;
 	}
 
 	#aboutmepic {
@@ -76,15 +76,15 @@
 	}
 
 	h4 {
-		width: calc(100% - 50px);
+		width: calc(100%);
 	}
 
 	.portfoliopic {
-		width: calc(100% - 50px);
+		width: calc(100%);
 	}
 
 	.grid {
-		width: 100%;
+		width: calc(50% - 50px);
 	}
 
 	input {
