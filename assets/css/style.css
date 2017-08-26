@@ -161,11 +161,6 @@ footer {
 	line-height: 90px;
 }
 
-.contentwithaside {
-	overflow: auto;
-	padding-bottom: 85px;
-}
-
 .maincontent {
 	width: 650px;
 	border: 1px solid #dddddd;
