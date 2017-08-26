@@ -56,11 +56,14 @@
 	.maincontent {
 		width: calc(100% - 50px);
 		margin-left: 25px;
+		margin-bottom: 25px;
 	}
 
 	aside {
 		width: calc(100% - 50px);
 		margin-left: 30px;
+		margin-top: 0px;
+		margin-bottom: 100px;
 	}
 	nav {
 		left: 465px;
